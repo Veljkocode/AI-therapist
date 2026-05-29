@@ -55,4 +55,3 @@ def main_chat():
 #Runs the program
 if __name__ == '__main__':
     main_chat()
-    
