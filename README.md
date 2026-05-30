@@ -30,7 +30,6 @@ ollama pull qwen2.5:3b
 next, download SQLite via website https://www.sqlite.org/download.html
 
 
-<<<<<<< HEAD
 And then all you need are an IDE and Python, but I doubt you need instructions on how to download those.
 Still uhhhh....
 IDE (VSCode): https://code.visualstudio.com/
