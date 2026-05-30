@@ -35,6 +35,8 @@ Still uhhhh....
 IDE (VSCode): https://code.visualstudio.com/
 Python: https://www.python.org/
 
+Also, if you want to talk abou something else, move the bd and the json file to a diffrent folder to keep them safe!
+
 yeah here you go :p
 
 
